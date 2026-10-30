@@ -1,0 +1,30 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.pdb
+*.obj
+*.log
+
+# Generated IDE and local environment files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+
+# Keep authored project assets and source under version control.
+# Before committing any .uasset/.umap, verify it was created by us.
